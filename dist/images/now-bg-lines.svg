@@ -1,0 +1,12 @@
+<svg id="bg-lines" xmlns="http://www.w3.org/2000/svg" width="1250" height="625" viewBox="0 0 1250 625">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #cec7c7;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="298" width="2" height="625"/>
+  <rect id="Rectangle_5_copy_4" data-name="Rectangle 5 copy 4" class="cls-1" width="300" height="2"/>
+  <rect id="Rectangle_5_copy_5" data-name="Rectangle 5 copy 5" class="cls-1" x="298" y="623" width="952" height="2"/>
+</svg>
